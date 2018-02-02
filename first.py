@@ -1,3 +1,5 @@
+#统计每个字符串的个数 如果是空格则不统计，打印出现闪数前10的字符
+
 content = 'first of all,i want make it clear that i can not claim understanding this holy book in just'
 res = {}
 for s in content:
